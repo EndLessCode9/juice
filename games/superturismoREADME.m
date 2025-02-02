@@ -1,4 +1,4 @@
-Super Turismo
+# Super-Turismo
 
 **Team Members:** Shubham Dhall
 
